@@ -1,5 +1,10 @@
 # Facebook Spoof [![Build Status](https://travis-ci.org/Islandora/islandora_example_module.png?branch=7.x)](https://travis-ci.org/Islandora/islandora_example_module)
 
+
+![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+
 ## Introduction
 
 A php code for spoofing facebook account.
